@@ -4,21 +4,6 @@ A simple Django REST API for managing fitness class schedules and client booking
 
 ---
 
-## 📁 Project Structure
-
-fitness_booking/
-├── booking/             # App for fitness classes and bookings  
-│   ├── models.py  
-│   ├── views.py  
-│   ├── serializers.py  
-│   ├── urls.py  
-├── fitness_booking/  
-│   ├── settings.py  
-│   ├── urls.py  
-├── manage.py  
-├── db.sqlite3  
-
----
 
 ## 🚀 Setup Instructions
 
@@ -39,12 +24,11 @@ fitness_booking/
 ```
     pip install -r requirements.txt  
 
-    (If no `requirements.txt`, install manually:)  
-    pip install django djangorestframework pytz
 ```
 
 ### 4. Run Migrations
 ```
+    python manage.py makemigrations
     python manage.py migrate
 ``` 
 
