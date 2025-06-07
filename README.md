@@ -10,7 +10,7 @@ A simple Django REST API for managing fitness class schedules and client booking
 ### 1. Clone the Repository
 ```
     git clone https://github.com/Sahil7910/Fitness_API.git
-    cd fitness-booking-api
+    cd Fitness_API
 ```
 
 ### 2. Create a Virtual Environment
