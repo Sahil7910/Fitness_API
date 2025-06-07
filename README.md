@@ -24,7 +24,8 @@ fitness_booking/
 
 ### 1. Clone the Repository
 ``` git clone https://github.com/yourusername/fitness-booking-api.git
-cd fitness-booking-api
+    cd fitness-booking-api
+```
 
 ### 2. Create a Virtual Environment
 python -m venv env  
