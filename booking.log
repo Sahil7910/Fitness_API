@@ -1,0 +1,5 @@
+[INFO] 2025-06-07 23:22:29,857 booking - Listed 1 upcoming classes
+[WARNING] 2025-06-07 23:22:56,008 booking - Booking failed - Data: {'class_id': 2, 'client_name': 'sahil k   ', 'client_email': 'sahil1@example.com'} - Errors: {'non_field_errors': [ErrorDetail(string='Class not found.', code='invalid')]}
+[INFO] 2025-06-07 23:23:06,172 booking - Booking successful for sahil1@example.com - Class: Yoga - 2025-06-08 01:30:00+00:00
+[INFO] 2025-06-07 23:23:24,866 booking - Booking successful for raj@example.com - Class: Yoga - 2025-06-08 01:30:00+00:00
+[WARNING] 2025-06-07 23:23:39,697 booking - Booking failed - Data: {'class_id': 1, 'client_name': 'ram', 'client_email': 'ram@example.com'} - Errors: {'non_field_errors': [ErrorDetail(string='No available slots.', code='invalid')]}
