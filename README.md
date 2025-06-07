@@ -23,7 +23,6 @@ A simple Django REST API for managing fitness class schedules and client booking
 ### 3. Install Dependencies
 ```
     pip install -r requirements.txt  
-
 ```
 
 ### 4. Run Migrations
