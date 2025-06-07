@@ -23,7 +23,7 @@ fitness_booking/
 ## 🚀 Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/fitness-booking-api.git
+``` git clone https://github.com/yourusername/fitness-booking-api.git
 cd fitness-booking-api
 
 ### 2. Create a Virtual Environment
@@ -152,6 +152,3 @@ All class datetimes are stored in IST (Asia/Kolkata). Django handles automatic c
 
 ---
 
-## 📫 Contact
-
-Made with ❤️ for learning and evaluation. Feel free to extend and improve.
