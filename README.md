@@ -23,13 +23,17 @@ fitness_booking/
 ## 🚀 Setup Instructions
 
 ### 1. Clone the Repository
-``` git clone https://github.com/yourusername/fitness-booking-api.git
+```
+    git clone https://github.com/yourusername/fitness-booking-api.git
     cd fitness-booking-api
 ```
 
 ### 2. Create a Virtual Environment
-python -m venv env  
-source env/bin/activate      # On Windows: env\Scripts\activate  
+```
+    python -m venv env  
+    source env/bin/activate
+    # On Windows: env\Scripts\activate
+```  
 
 ### 3. Install Dependencies
 pip install -r requirements.txt  
