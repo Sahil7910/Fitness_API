@@ -6,7 +6,6 @@ from .models import FitnessClass, Booking
 from .serializers import FitnessClassSerializer, BookingSerializer
 from django.utils import timezone
 
-
 logger = logging.getLogger('booking')
 
 @api_view(['POST'])
